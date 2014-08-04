@@ -73,6 +73,7 @@
                         <phase>process-sources</phase>
                         <goals>
                             <goal>update-file-header</goal>
+                            <goal>update-project-license</goal>
                         </goals>
                         <configuration>
                             <licenseName>apache_v2</licenseName>
